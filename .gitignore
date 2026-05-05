@@ -1,0 +1,18 @@
+node_modules
+.next
+out
+.env
+.env.local
+.DS_Store
+*.log
+
+# Hardhat
+artifacts
+cache
+typechain-types
+
+# Foundry
+contracts/out
+contracts/cache
+contracts/lib
+contracts/broadcast
